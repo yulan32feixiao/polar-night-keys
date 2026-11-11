@@ -1,0 +1,10 @@
+# 工具环境（1 GB+，重装用 tools/安装转谱环境.sh）
+tools/.env/
+tools/.tenv/
+tools/.work/
+# 原曲录音有版权，不公开
+audio/
+# 本地完整版（含伴奏音频），公开用根目录的 index.html
+src/
+双击开始玩.html
+.DS_Store
